@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color:cadetblue;
+    padding: 50px 25px;
+}
+
+p {
+    background: gray;
+    width: 400px;
+}
+
+h2 {
+    background: hotpink;
+    margin: 50px 200px 50px 75px;
+    padding: 45px 115px 75px 100px;
+}
+
+h5 {
+    background: teal;
+    margin: 50px 20px 50px;
+}
+
+.racoon {
+    width: 400px;
+    margin: 50px 200px 50px 75px;
+}
