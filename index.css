@@ -110,3 +110,11 @@ section {
 .extra-space {
     margin-top: 10rem;
 }
+
+.text-accent {
+    color: #3669c9;
+}
+
+.text-dark {
+    color: lightsalmon;
+}

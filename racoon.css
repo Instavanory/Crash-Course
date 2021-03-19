@@ -58,3 +58,8 @@ section {
     background: darkkhaki;
     color: darkturquoise;
 }
+
+.container {
+    width: 800px;
+    border: 10px solid lightskyblue;
+}
